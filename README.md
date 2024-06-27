@@ -53,7 +53,7 @@ This project demonstrates three common process scheduling algorithms: First-Come
 
 Add screenshots here to demonstrate the usage and output of the program.
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](https://drive.google.com/file/d/1YmVQGR-0v12XmgrShC7AgEmq8cFycgRD/view)
 ![Screenshot 2](path/to/screenshot2.png)
 
 ## 🌟 Features
