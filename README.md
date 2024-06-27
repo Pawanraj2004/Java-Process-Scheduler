@@ -52,11 +52,16 @@ This project demonstrates three common process scheduling algorithms: First-Come
 ## 🖼️ Screenshots
 
 Add screenshots here to demonstrate the usage and output of the program.
+![Screenshot 2024-06-27 175002](https://github.com/Shreya123Sahu/Java-Process-Scheduler/assets/132187076/fdd15534-001e-46d0-8065-3d72de3387cc)
 
-![Screenshot 1](https://drive.google.com/file/d/1YmVQGR-0v12XmgrShC7AgEmq8cFycgRD/view)
-![Screenshot 2](path/to/screenshot2.png)
 
-## 🌟 Features
+![Screenshot 2024-06-27 175119](https://github.com/Shreya123Sahu/Java-Process-Scheduler/assets/132187076/fe818015-be46-408e-9062-6cbbd0c17079)
+
+
+![Screenshot 2024-06-27 175201](https://github.com/Shreya123Sahu/Java-Process-Scheduler/assets/132187076/5448e982-606c-4702-a2bc-395f7667db79)
+
+## 🌟 Feature
+
 Three scheduling algorithms: FCFS, SJF, SRTF
 Automatic selection of the best algorithm
 Detailed results including waiting time and turnaround time
