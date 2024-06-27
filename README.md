@@ -52,11 +52,12 @@ This project demonstrates three common process scheduling algorithms: First-Come
 ## 🖼️ Screenshots
 
 Add screenshots here to demonstrate the usage and output of the program.
+# 3 processes provided as input with their arrival and burst time and FCFS Scheduling method is chosen !
 ![Screenshot 2024-06-27 175002](https://github.com/Shreya123Sahu/Java-Process-Scheduler/assets/132187076/fdd15534-001e-46d0-8065-3d72de3387cc)
-
+# 5 processes provided as input with their arrival and burst time and SRTF Scheduling method is chosen !
 
 ![Screenshot 2024-06-27 175119](https://github.com/Shreya123Sahu/Java-Process-Scheduler/assets/132187076/fe818015-be46-408e-9062-6cbbd0c17079)
-
+# 5 processes provided as input with their arrival and burst time and Best is chosen !
 
 ![Screenshot 2024-06-27 175201](https://github.com/Shreya123Sahu/Java-Process-Scheduler/assets/132187076/5448e982-606c-4702-a2bc-395f7667db79)
 
